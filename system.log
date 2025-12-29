@@ -1,0 +1,16 @@
+[2025-12-29 12:15:17] SYSTEM started
+[2025-12-29 12:15:19] LOGIN failed attempt
+[2025-12-29 12:15:23] LOGIN successful
+[2025-12-29 12:15:23] LOAD users (0)
+[2025-12-29 12:16:00] ADD user Mark
+[2025-12-29 12:16:04] ADD user Yor
+[2025-12-29 12:16:05] ADD user For
+[2025-12-29 12:16:07] ADD user Kor
+[2025-12-29 12:16:08] ADD failed (duplicate): For
+[2025-12-29 12:16:12] ADD user Yes
+[2025-12-29 12:16:13] ADD user No
+[2025-12-29 12:16:29] SAVE users (6)
+[2025-12-29 12:16:30] LOAD users (6)
+[2025-12-29 12:16:35] DELETE user No
+[2025-12-29 12:16:39] SAVE users (5)
+[2025-12-29 12:16:39] EXIT system
