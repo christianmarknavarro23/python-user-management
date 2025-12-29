@@ -14,3 +14,17 @@
 [2025-12-29 12:16:35] DELETE user No
 [2025-12-29 12:16:39] SAVE users (5)
 [2025-12-29 12:16:39] EXIT system
+[2025-12-29 16:33:28] SYSTEM started
+[2025-12-29 16:33:30] LOGIN successful
+[2025-12-29 16:33:30] LOAD users (5)
+[2025-12-29 16:33:35] ADD failed (duplicate): Mark
+[2025-12-29 16:33:37] ADD user Chris
+[2025-12-29 16:33:38] ADD user Tim
+[2025-12-29 16:33:43] ADD user Vince
+[2025-12-29 16:33:45] ADD user Vins
+[2025-12-29 16:33:50] ADD user Tom
+[2025-12-29 16:33:51] ADD user Tam
+[2025-12-29 16:34:00] SAVE users (11)
+[2025-12-29 16:34:04] LOAD users (11)
+[2025-12-29 16:34:09] SAVE users (11)
+[2025-12-29 16:34:09] EXIT system
